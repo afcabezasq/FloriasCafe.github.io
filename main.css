@@ -48,7 +48,7 @@ a {
   margin: 0;
   padding: 10;
   overflow: hidden;
-  font-size: 3em;
+  font-size: 2em !important;
   
 }
 
